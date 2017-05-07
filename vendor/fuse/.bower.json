@@ -1,0 +1,15 @@
+{
+  "name": "fuse",
+  "homepage": "https://github.com/krisk/Fuse",
+  "version": "3.0.0",
+  "_release": "3.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v3.0.0",
+    "commit": "194692ae70c41f5dbd3805d4048e1ac3b776acb6"
+  },
+  "_source": "https://github.com/krisk/Fuse.git",
+  "_target": "^3.0.0",
+  "_originalSource": "fuse",
+  "_direct": true
+}
